@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @VeoGarg
+- 👋 Hi, I’m Vikas Garg
 - 👀 I’m interested in developing and learning new things
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently into JS Stack
 - 💞️ I’m looking to collaborate on open source projects on react and node
 - 📫 How to reach me ...
 
